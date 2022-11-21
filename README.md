@@ -1,6 +1,6 @@
 # amazon_clone
 
-A new Flutter project.
+It's a Amazon clone project with Node.js and Flutter.
 
 ## Getting Started
 
